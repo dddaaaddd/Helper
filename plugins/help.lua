@@ -179,7 +179,7 @@ do
       '<code>!help</code>',
       'Show list of plugins.',
       '',
-      '<code>!help all</code>',
+      '<code>!help</code>',
       'Show all commands for every plugin.',
       '',
       '<code>!help [plugin_name]</code>',
